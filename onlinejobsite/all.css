@@ -1,0 +1,61 @@
+*{margin:0;padding:0}
+body {font-family:Arial;font-size:14px;line-height:20px;color:black;background:url(images/back.jpg);}
+.main{width:960px;margin:30px auto;display:block;overflow:hidden;background: #fff;}
+
+.error{color: #ff0000;}
+
+.header{overflow: hidden;border: 10px solid #80b3ff;border-radius: 10px}
+.header img{float: left;border-right: 39px solid #fff}
+.header ul{list-style:none}
+.header ul li{float:left;border-left:1px solid #80b3ff;border-radius: 18px}
+.header ul li a{display:block;background:#fff;color:#0080ff;padding:15px 23px;text-decoration:none}
+.header ul li a:hover{color: green}
+
+.content{overflow: hidden;border: 10px solid #80b3ff;border-radius: 10px;padding: 10px;}
+.content h2,h3,h4,p,input{padding: 15px}
+.content h3 a{margin: 0px;padding: 10px;text-decoration: none;background: #469f0d;color:#fff;border-radius: 20px}
+.content h3 a:hover{background: #95ee5c}
+.content h4 a{padding: 8px;text-decoration: none;background: #808080;color:#fff;border-radius: 10px}
+.content h4 a:hover{background: #80b3ff}
+
+.content ul{list-style:none}
+.content ul li{float:left;border-left:1px solid #80b3ff;border-radius: 18px}
+.content ul li a{display:block;background:#fff;color:#0080ff;padding:10px;text-decoration:none}
+.content ul li a:hover{color: green}
+
+.proh2{background: #80b3ff;color: #fff;border-radius: 10px;}
+
+.tt{width: 100%;}
+.tt td{border:2px solid #80b3ff;padding: 15px;}
+.tableform{}
+.tableform td{padding: 15px;}
+.protable{width: 100%;margin: 10px;}
+.protable td{padding: 10px;}
+
+.alljob{width: 70%;float: left;margin: 12px;}
+.alljob td{}
+.offer{width: 100%;border: 8px solid #80b3ff;border-radius: 10px;margin-bottom: 5px;}
+.offer td{padding: 10px;}
+
+.category{width: 25%;margin: 12px;}
+.category td{}
+.category input{display:block;background:#c653c6;color:#fff;padding:10px;text-decoration:none;border-radius: 10px;width: 100%}
+.category input:hover{background:#f2d9f2;color: #993399}
+.category a{display:block;background:#c653c6;color:#fff;padding:10px;text-decoration:none;border-radius: 10px}
+.category a:hover{background:#f2d9f2;color: #993399}
+.ctitle{background: #fff;color: #c653c6;border-radius: 10px;border:3px solid #c653c6;}
+
+#del{padding: 0px;width: 0px;background: #fff;color: #fff;border:1px solid #fff ;}
+.detoffer{padding: 10px;border-radius: 10px;}
+
+.ppp{padding: 0px;width: 0px;background: #fff;color: #fff;border:1px solid #fff ;}
+.del2{padding: 5px;width: 190px;background: #fff;border:1px solid #fff;}
+.del3{padding: 10px;width: 150px;background: #cccccc;border:1px solid #fff ;}
+.det2{width: 100px;background: green;color: #fff;padding: 10px;border-radius: 10px;}
+.det3{width: 100px;background: red;color: #fff;padding: 10px;border-radius: 10px;}
+
+.insubmit input{display:block;background:#808080;color:#fff;padding:8px;text-decoration:none;border-radius: 10px;font-weight:bold;}
+.insubmit input:hover{background:#80b3ff}
+
+
+.footer{background:#80b3ff;color:#fff;padding:10px;border-radius: 10px}

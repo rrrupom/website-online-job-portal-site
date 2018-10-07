@@ -1,0 +1,36 @@
+*{margin:0;padding:0}
+body {font-family:Arial;font-size:14px;line-height:20px;color:black;background:url(images/back.jpg);}
+.main{width:960px;margin:30px auto;display:block;overflow:hidden;background: #fff;}
+
+
+
+.header{overflow: hidden;border: 10px solid #80b3ff;border-radius: 10px}
+.header img{float: left;border-right: 39px solid #fff}
+.header ul{list-style:none}
+.header ul li{float:left;border-left:1px solid #80b3ff;border-radius: 18px}
+.header ul li a{display:block;background:#fff;color:#0080ff;padding:15px 23px;text-decoration:none}
+.header ul li a:hover{color: green;}
+
+
+.content{overflow: hidden;border: 10px solid #80b3ff;border-radius: 10px;padding: 10px;}
+.content h2,h3,h4,p,input{padding: 15px}
+.content h3 a{margin: 18px;padding: 14px;text-decoration: none;background: #469f0d;color:#fff;border-radius: 20px}
+.content h3 a:hover{background: #95ee5c}
+
+.section{display: block;overflow: hidden;}
+.section h2{padding: 25px;color: #fff}
+.org{float: left;width: 318px;height: 380px;background: #33cc33;border-radius: 10px;border:1px solid #fff;line-height: 2px}
+
+.org input{padding: 10px;text-decoration: none;background: #fff;color:#33cc33;border-radius: 30px;font-size:18px;}
+.org input:hover{padding: 20px;border-radius: 40px}
+
+.newjob{float: left;width: 630px;height: 380px;background: #ff4d4d;border-radius: 10px;border:1px solid #fff;line-height: 2px}
+
+.newjob input{padding: 10px;text-decoration: none;background: #fff;color:#ff4d4d;border-radius: 10px;font-size:16px;}
+.newjob input:hover{border-radius: 20px;}
+
+.newjob h3 a{padding: 10px;text-decoration: none;background: #fff;color:#ff4d4d;border-radius: 20px}
+.login{float: left;width: 317px;height: 380px;background: #ffd11a;border-radius: 10px;border:1px solid #fff;}
+.login h3 a{padding: 10px;text-decoration: none;background: #ff4d4d;color:#fff;border-radius: 20px}
+.section h3 a:hover{padding: 16px;border-radius: 15px}
+.footer{background:#80b3ff;color:#fff;padding:10px;border-radius: 10px}
